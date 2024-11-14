@@ -2,7 +2,7 @@
 
 A project to create a scraper with the political leaders of each country you get from the 'https://country-leaders.onrender.com' API
 
-## Usage
+## 🤖 Usage
 
 1 .Clone the repository to your local machine
 
@@ -42,8 +42,8 @@ wiki.save_json_file(data=leaders_first_paragraph, name_of_the_file='leaders.json
 data = wiki.read_json_file('leaders.json')
 print(data)
 ```
-# Timeline
+## ⏱️ Timeline
 This project took two days for completion.
 
-# Personal Situation
+## 👱 Personal Situation
 This project was done as part of the AI Boocamp at BeCode.org.
